@@ -1,8 +1,6 @@
 ---
 title: "Segunda Tarea"
 author: "Allan Marín"
-format: html
-editor: visual
 ---
 
 ## Graficación sobre la calidad del café según el Instituto de calidad del café (CQI)
